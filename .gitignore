@@ -1,0 +1,8 @@
+# logs
+app.log
+
+# generated files
+clean_data.csv
+
+# python cache
+__pycache__/
