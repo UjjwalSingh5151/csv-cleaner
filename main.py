@@ -7,6 +7,7 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+print("Running CSV Cleaner - feature branch 🚀")
 
 def load_data(filename):
     try:
